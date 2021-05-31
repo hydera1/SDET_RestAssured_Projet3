@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2370" started-at="2021-05-31T14:24:24Z" finished-at="2021-05-31T14:24:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2370" started-at="2021-05-31T14:24:24Z" finished-at="2021-05-31T14:24:26Z">
+      <class name="PostPackage.postclass">
+        <test-method status="PASS" signature="jsonBody(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:PostPackage.postclass@d28811]" name="jsonBody" duration-ms="1498" started-at="2021-05-31T14:24:24Z" data-provider="datafromexcel" finished-at="2021-05-31T14:24:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[O]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsonBody -->
+        <test-method status="PASS" signature="jsonBody(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:PostPackage.postclass@d28811]" name="jsonBody" duration-ms="25" started-at="2021-05-31T14:24:26Z" data-provider="datafromexcel" finished-at="2021-05-31T14:24:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[D]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsonBody -->
+        <test-method status="PASS" signature="jsonBody(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:PostPackage.postclass@d28811]" name="jsonBody" duration-ms="55" started-at="2021-05-31T14:24:26Z" data-provider="datafromexcel" finished-at="2021-05-31T14:24:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[E]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Q]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsonBody -->
+        <test-method status="PASS" signature="jsonBody(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:PostPackage.postclass@d28811]" name="jsonBody" duration-ms="54" started-at="2021-05-31T14:24:26Z" data-provider="datafromexcel" finished-at="2021-05-31T14:24:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[G]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[H]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[R]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsonBody -->
+        <test-method status="PASS" signature="jsonBody(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:PostPackage.postclass@d28811]" name="jsonBody" duration-ms="45" started-at="2021-05-31T14:24:26Z" data-provider="datafromexcel" finished-at="2021-05-31T14:24:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[I]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[J]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[S]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsonBody -->
+        <test-method status="PASS" signature="jsonBody(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:PostPackage.postclass@d28811]" name="jsonBody" duration-ms="46" started-at="2021-05-31T14:24:26Z" data-provider="datafromexcel" finished-at="2021-05-31T14:24:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[K]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[L]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[T]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsonBody -->
+      </class> <!-- PostPackage.postclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
